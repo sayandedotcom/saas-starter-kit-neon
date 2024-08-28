@@ -79,3 +79,24 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+✅ CQRS
+✅ Software as a Service
+✅ Authentication by stateful session (Password) GraphQL
+✅ OAuth2 Authentication (Google, Github, Facebook) REST
+✅ User
+✅ Event Sourcing
+✅ GraphQL API
+✅ GRPC Microservice
+✅ Emailing Queue
+✅ Role Based Access Control
+✅ Multi Tenancy
+✅ Payment (Stripe)
+✅ SaaS Plans (Stripe)
+✅ Security
+✅ Service Discovery (Default on Consul), supports ectd, Kubernetes
+✅ React SSR Starter Kit
+❌ (WiP) Documentation
+✅ (WiP) Webhooks
+❌ (WiP) Support for language translation
+❌ (WiP) GraphQL dataloaders
